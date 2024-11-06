@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hbjy gjtuv
+=======
+hbjy
+>>>>>>> branch-1
